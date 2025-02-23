@@ -4,4 +4,4 @@ An application where you can explore a list of pizzas, add items, adjust quantit
 
 ---
 
-I would like to especially thank my **Jonas Schmedtmann** for their constant motivation and guidance throughout the development of this project. Their support helped me overcome challenges and progress in my learning.
+I would especially like to thank Jonas Schmedtmann for their constant motivation and guidance throughout the development of this project. Their support helped me overcome challenges and made significant progress in my learning.
